@@ -1,0 +1,6 @@
+mode: set
+src/github.com/Kento75/tdd-go/sort/sort.go:7.33,10.18 2 1
+src/github.com/Kento75/tdd-go/sort/sort.go:10.18,13.40 2 1
+src/github.com/Kento75/tdd-go/sort/sort.go:13.40,14.35 1 1
+src/github.com/Kento75/tdd-go/sort/sort.go:14.35,17.5 2 1
+src/github.com/Kento75/tdd-go/sort/sort.go:22.27,24.2 1 0
